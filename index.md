@@ -21,13 +21,15 @@ We will be guided by the following overarching questions:
 * In the dark skies and high altitude which we have at Deep Springs, what observational techniques and conditions make us the most sensitive and accurate that we can we be in detecting and estimating the changes in brightness of stars possibly as least as dim as magnitude 18 with our relatively modest (250mm) telescope? NB: larger numbers are dimmer in the astronomical magnitude system. We have plenty of data that makes us confident that our equipment can easily identify magnitude 18 stars, but supernovae have the added complexity that they are almost always sitting directly on top of a fuzzy background (the galaxy in which they inhabit), and the methods for subtracting background are tricky.
 * What are the best practices in the analysis of the data taken in our observations that again push the brightness limits of our setup?
 * What transient targets are of the most interest given our data-taking and analysis capability? We believe that supernovae identified by the Zwicky Transient Facility are within our grasp and that supernovae light curves taken over many nights with our gear will be of sufficient interest to the astrophysics community that we can contribute our results to refereed publications. Supernovae have various brightnesses with the brightest ones having peak luminosity brighter than magnitude 17 (see https://www.rochesterastronomy.org/supernova.html).
-* How does this work inform preparation for the Vera C. Rubin Observatory which is now just one year from its initial large-scale synoptic surveys? For example, can small telescopes do searches for very short time-scale transients (which is one of the signatures for SETI, https://jradavenport.github.io/seti_with_lsst2023/.
+* How does this work inform preparation for the Vera C. Rubin Observatory which is now just one year from its initial large-scale synoptic surveys?
 
 ## Schedule and Work Plan
 
 ### Project Activities
 
-All three of us need to be fully cognizant and responsible for the results that we produce. This means that we will (outside of regular meeting times) be independently doing analyses of the data we have taken. Also, all three of us do not need to be present for all data-taking sessions, so there will be data-taking sessions consisting of just pairs of us taking additional data once the techniques have been established to all three of our satisfaction. A typical data-taking session will run from about 7pm to midnight, which includes time for setup and teardown. Some data-taking sessions will be pre-dawn instead of in the evening (e.g., from about 3am to 7am).
+All three of us need to be fully cognizant and responsible for the results that we produce. This means that we will (outside of regular meeting times) be independently doing analyses of the data we have taken.
+
+Also, all three of us do not need to be present for all data-taking sessions, so there will be data-taking sessions consisting of just pairs of us taking additional data once the techniques have been established to all three of our satisfaction. A typical data-taking session will run from about 7pm to midnight, which includes time for setup and teardown. Some data-taking sessions will be pre-dawn instead of in the evening (e.g., from about 3am to 7am).
 
 ### Phases
 
@@ -46,7 +48,7 @@ Research Questions
 
 ## Grading/Evaluation
 
-* Observational Work — 25% — This will be comprised of observatory setup and teardown work as well as approximately 10 evenings of data-taking
-* Analytical Work — 25% — This will be comprised of data processing using Python packages
-* Scientific Record-Keeping — 25% — Records should include: (a) Target Selection Criteria, (b) Listings of Available Targets and their properties, (c) Conditions of Data-Taking, (d) Factors in Data-Processing
-* Project Report and Presentation — 25% — We will jointly produce a project report. If our results are sufficiently significant, our project report will be submitted as a paper to a refereed journal.
+* Observational Work — 35% — This will be comprised of observatory setup and teardown work as well as approximately 10 evenings of data-taking
+* Analytical Work — 20% — This will be comprised of data processing using Python packages
+* Scientific Record-Keeping — 20% — Records should include: (a) Target Selection Criteria, (b) Listings of Available Targets and their properties, (c) Conditions of Data-Taking, (d) Factors in Data-Processing
+* Project Report and Presentation — 25% — We will jointly produce a project report and an expanded passover. If our results are sufficiently significant, our project report will be submitted as a paper to a refereed journal.
