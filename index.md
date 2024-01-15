@@ -10,7 +10,7 @@ Student Researchers: Ethan Liao (DS 22) and Hexi Jin (DS 23)
 
 ## Syllabus
 
-* [Syllabus](./SupernovaObservationSyllabus.pdf) &mdash; A PDF that mirrors what is on this web page
+* [Syllabus](./SupernovaObservationSyllabus.pdf) (a PDF that mirrors what is on this web page) &mdash; [Directed Study Application](./Liao-Jin-ApplicationForDirectedStudy-REVISED.pdf) (revised in response to CurCom comments)
 
 ## Overview
 
