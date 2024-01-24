@@ -25,6 +25,8 @@ We will be guided by the following overarching questions:
 
 ## Schedule and Work Plan
 
+* [Record of Work - Term 4](./record_of_work-term_4.html)
+
 ### Project Activities
 
 All three of us need to be fully cognizant and responsible for the results that we produce. This means that we will (outside of regular meeting times) be independently doing analyses of the data we have taken.

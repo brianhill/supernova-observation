@@ -2,9 +2,11 @@
 
 *Documentation of our development environment choices and procedures*
 
-### Anaconda
+### Install Anaconda
 
 The [2023.09 release](https://www.anaconda.com/blog/new-release-anaconda-distribution-2023-9-and-more) (or higher) of the Anaconda Distribution is the starting point for our development environment. The version of Python in this distribution is 3.11.5. Key tools, services, and apps supporting our work using Python are git, GitHub, Juptyer, PyCharm, and TextMate 2.0. We mostly do analysis on Macs, but we expect our analysis pipeline to be completely portable to any other platform supported by Anaconda.
+
+### Clone the Base Environment
 
 We begin by making a new environment from the base environment:
 
@@ -14,19 +16,27 @@ followed by
 
 `conda activate supernova`
 
-It is a good idea to add the latter command to your .zshrc file so that you don't accidentally try to launch jupyter in the base environment.
+It is a good idea to add the latter command to your `.zshrc` file so that you don't accidentally try to launch jupyter in the base environment.
 
-The environment supernova is nothing more than a copy of the environment base. However, if we muck the environment up somehow, we can start over by making another copy of base rather than re-downloading the Anaconda distribution.
+The environment `supernova` is nothing more than a copy of the environment `base`. However, if we muck the environment up somehow, we can start over by making another copy of `base` rather than re-downloading the Anaconda distribution.
 
 ### Launching  Jupyter
 
-First we need to get Jupyter started. In a Terminal window:
+First we need to get Jupyter started. In a Terminal window, depending on what notebooks you want to work on, either,
 
-`cd ~/Projects/supernova-observation/pydev
+`cd ~/Projects/supernova-observation/pydev`
+
+or,
+
+`cd ~/Projects/supernova-observation/targets`
+
+Then,
 
 `jupyter notebook`
 
 ### ccdproc
+
+*ALL THE REST OF THE INFORMATION BELOW HAS NOT BEEN RECENTLY UPDATED. AS WE START A NEW ROUND OF ANALYSES WE WILL UPDATE IT.*
 
 Out data processing pipeline will use [ccdproc](https://ccdproc.readthedocs.io/en/latest/) for image calibration (lights, darks, flats, and biases).
 
