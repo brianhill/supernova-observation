@@ -12,6 +12,10 @@ Student Researchers: Ethan Liao (DS 22) and Hexi Jin (DS 23)
 
 * [Syllabus](./SupernovaObservationSyllabus.pdf) (a PDF that mirrors what is on this web page) &mdash; [Directed Study Application](./Liao-Jin-ApplicationForDirectedStudy-REVISED.pdf) (revised in response to CurCom comments)
 
+## Schedule and Work Plan
+
+* [Record of Work - Term 4](./record_of_work-term_4.html)
+
 ## Overview
 
 This proposal builds on the Academic Year 2022-2023 work of Luke Suess and Sofia Mikulasek. It is a blend of (1) learning the basics of observational astronomy, (2) performing data-taking with research ambitions, and (3) analyzing data in Python. This blend fits under the model of “Research Experience for Undergraduates (REU),” as it is known at many institutions.
@@ -22,10 +26,6 @@ We will be guided by the following overarching questions:
 * What are the best practices in the analysis of the data taken in our observations that again push the brightness limits of our setup?
 * What transient targets are of the most interest given our data-taking and analysis capability? We believe that supernovae identified by the Zwicky Transient Facility are within our grasp and that supernovae light curves taken over many nights with our gear will be of sufficient interest to the astrophysics community that we can contribute our results to refereed publications. Supernovae have various brightnesses with the brightest ones having peak luminosity brighter than magnitude 17 (see https://www.rochesterastronomy.org/supernova.html).
 * How does this work inform preparation for the Vera C. Rubin Observatory which is now just one year from its initial large-scale synoptic surveys?
-
-## Schedule and Work Plan
-
-* [Record of Work - Term 4](./record_of_work-term_4.html)
 
 ### Project Activities
 
