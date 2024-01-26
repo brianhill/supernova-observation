@@ -13,4 +13,10 @@ Supernova Observation [home page](./)
 
 ### Week 3 (Jan. 21-27)
 
-* 2024-01-24 &mdash; More gray weather, so start working on old analyses, starting with setting up a fresh Python Development Environment](./pydev/pydevenv.html)
+* 2024-01-24 &mdash; More gray weather, so start working on old analyses, starting with setting up a [fresh Python Development Environment](./pydev/pydevenv.html)
+* 2024-01-25 &mdash; Do more filming for passover documentation &mdash; Finish setting up and documenting the setup of our [Python Development Environment](./pydev/pydevenv.html)
+* 2024-01-26 &mdash; Meet to take next steps getting everyone using GitHub and Jupyter
+
+### Week 4 (Jan. 28-Feb. 3)
+
+NB: The only potentially clear night in the forecast for next week is the evening of Monday, Jan. 29
