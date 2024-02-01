@@ -16,8 +16,9 @@ Supernova Observation [home page](./)
 * 2024-01-24 &mdash; More gray weather, so start working on analyses of old data, starting with setting up a fresh Python Development Environment
 * 2024-01-25 &mdash; Do more videography with Ethan for passover documentation &mdash; Finish setting up and documenting the setup of our [Python Development Environment](./pydev/pydevenv.html)
 * 2024-01-26 &mdash; Meet to take next steps getting everyone using GitHub and Jupyter &mdash; Hexi will set up the red iMac, and Ethan will set up the PC &ldquo;supercomputer&rdquo;
-* 2024-01-27 &mdash; With Hexi, tear down the College's new EdgeHD 11, and start setting up the CFF RC 250
+* 2024-01-27 &mdash; With Ethan and Hexi tear down the College's new EdgeHD 11
+* 2024-01-29 &mdash; With Hexi, Start setting up the CFF RC 250
 
 ### Week 4 (Jan. 28-Feb. 3)
 
-Going forward, we have chosen M/Th at 11:00 for regular meetings.
+* 2024-02-01 &mdash; Learn about git and Jupyter
