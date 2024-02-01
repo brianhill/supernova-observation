@@ -19,6 +19,8 @@ Supernova Observation [home page](./)
 * 2024-01-27 &mdash; With Ethan and Hexi tear down the College's new EdgeHD 11
 * 2024-01-29 &mdash; With Hexi, Start setting up the CFF RC 250
 
+
 ### Week 4 (Jan. 28-Feb. 3)
 
+* 2024-01-28 &mdash; Train Hexi to do basic Python at the red iMac
 * 2024-02-01 &mdash; Learn about git and Jupyter
