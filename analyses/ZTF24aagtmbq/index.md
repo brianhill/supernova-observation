@@ -17,6 +17,10 @@ Back to [Index](../index.html)
 
 ### Discovery and Finder Charts
 
+*Discovery Image*
+
+<img src="./target-info/DiscoveryImage.png" alt="DiscoveryImage" width="50%">
+
 *TheSkyX Finder Chart*
 
 <img src="./TheSkyXFinderChart.png" alt="Finder Chart" width="100%">
@@ -24,3 +28,7 @@ Back to [Index](../index.html)
 *TheSkyX Finder Chart with North Down*
 
 <img src="./TheSkyXFinderChart-NorthDown.png" alt="Finder Chart - North Down" width="100%">
+
+### Observations
+
+* March 13 (UTC)?

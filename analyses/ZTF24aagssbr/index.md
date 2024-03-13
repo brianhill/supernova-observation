@@ -7,10 +7,12 @@ Back to [Index](../index.html)
 #### Positives
 
 * In a redshift 0.056 galaxy in Ursa Major, 2MASX+J11082310%2B4358032 aka LEDA 2233429 aka PGC 2233429
-
+* Up all night
+* Discovery image is quite clear
 
 #### Negatives
 
+* Redshift is a little  beyond our typical 0.05 cutoff
 
 ### Discovery and Finder Charts
 
@@ -28,4 +30,4 @@ Back to [Index](../index.html)
 
 ### Observations
 
-* March 13 (UTC)
+* March 13 (UTC)?
