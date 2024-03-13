@@ -16,7 +16,7 @@
 1. LEDA identifiers are often the same as PGC identifiers
 2. For accessing photos of the target region, [select DSS2 Red](https://skyview.gsfc.nasa.gov/current/cgi/query.pl)
 
-## Currently Promising?
+## March Targets
 
-1. [A supernova in Bootes, ZTF24aagssbr](https://alerce.online/object/ZTF24aagssbr) in a z=0.056 galaxy
-2. [A supernova in Ursa Major, ZTF24aagtmbq](https://alerce.online/object/ZTF24aagtmbq) in a z=0.031 galaxy
+1. [./analyses/ZTF24aagssbr/index.md](./analyses/ZTF24aagssbr/index.html) in a z=0.056 galaxy in Ursa Major
+2. [./analyses/ZTF24aagtmbq/index.md](./analyses/ZTF24aagtmbq/index.html) in a z=0.031 galaxy in Bootes
