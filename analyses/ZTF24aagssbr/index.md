@@ -2,7 +2,9 @@
 
 Back to [Index](../index.html)
 
-### Interesting Features
+### Features
+
+* [ALeRCE ZTF Explorer](https://alerce.online/object/ZTF24aagssbr)
 
 #### Positives
 
@@ -28,6 +30,6 @@ Back to [Index](../index.html)
 
 <img src="./target-info/TheSkyXFinderChart-NorthDown.png" alt="Finder Chart - North Down" width="100%">
 
-### Observations
+### Observations (UTC)
 
-* March 13 (UTC)?
+* March 13?
