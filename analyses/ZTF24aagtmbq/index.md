@@ -23,11 +23,11 @@ Back to [Index](../index.html)
 
 *TheSkyX Finder Chart*
 
-<img src="./TheSkyXFinderChart.png" alt="Finder Chart" width="100%">
+<img src="./target-info/TheSkyXFinderChart.png" alt="Finder Chart" width="100%">
 
 *TheSkyX Finder Chart with North Down*
 
-<img src="./TheSkyXFinderChart-NorthDown.png" alt="Finder Chart - North Down" width="100%">
+<img src="./target-info/TheSkyXFinderChart-NorthDown.png" alt="Finder Chart - North Down" width="100%">
 
 ### Observations
 
