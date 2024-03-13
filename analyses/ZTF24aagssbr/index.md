@@ -1,19 +1,22 @@
-## ZTF24aagssbr Target Information
+## ZTF24aagssbr
 
 Back to [Index](../index.html)
 
 ### Interesting Features
 
+#### Positives
+
 * In a redshift 0.056 galaxy in Ursa Major, 2MASX+J11082310%2B4358032 aka LEDA 2233429 aka PGC 2233429
 
-### Discovery and Finder Charts
 
-* [ALeRCE ZTF Explorer](https://alerce.online/object/ZTF24aagssbr)
+#### Negatives
+
+
+### Discovery and Finder Charts
 
 *Discovery Image*
 
 <img src="./target-info/DiscoveryImage.png" alt="DiscoveryImage" width="50%">
-
 
 *TheSkyX Finder Chart*
 
