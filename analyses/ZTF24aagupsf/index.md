@@ -19,7 +19,7 @@ Back to [Index](../index.html)
 
 *Discovery Image*
 
-<img src="./target-info/DiscoveryImage.png" alt="DiscoveryImage" width="50%">
+<img src="./target-info/DiscoveryImages.png" alt="Discovery images" width="50%">
 
 *TheSkyX Finder Chart*
 
