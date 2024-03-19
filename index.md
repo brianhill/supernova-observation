@@ -18,5 +18,16 @@
 
 ## March Targets
 
-1. [./analyses/ZTF24aagssbr/index.md](./analyses/ZTF24aagssbr/index.html) in a z=0.056 galaxy in Ursa Major
-2. [./analyses/ZTF24aagtmbq/index.md](./analyses/ZTF24aagtmbq/index.html) in a z=0.031 galaxy in Bootes
+1. [./analyses/ZTF24aagssbr/index.md](./analyses/ZTF24aagupsf/index.html) in a z=0.03 galaxy in Hercules, PGC 58391
+
+## Week of March 18 Work Plan
+
+* Fix internet at Henderson
+* Fix internet at seismic
+* Collimation
+* Get the video work with the Celestron done
+* March 19 (UTC) observe SN in PGC 58391
+* March 20 (UTC) continue observation
+* March 22 analyze March 19 and 20 data
+* Make mini-desk for laptop in dome
+* Istall 24*rdquo; monitor, 2.4GHz mouse and keyboard
