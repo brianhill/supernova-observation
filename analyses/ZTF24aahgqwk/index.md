@@ -1,19 +1,18 @@
-## ZTF24aagupsf
+## ZTF24aahgqwk
 
 Back to [Index](../index.html)
 
 ### Features
 
-* [ALeRCE ZTF Explorer](https://alerce.online/object/ZTF24aagupsf)
+* [ALeRCE ZTF Explorer](https://alerce.online/object/ZTF24aahgqwk)
 
 #### Positives
 
-* In a redshift 0.03 spiral galaxy, CGCG 224-062, aka PGC 58391
-* located well away from the galaxy center
+* In a redshift 0.003 spiral galaxy, NGC 3443
 
 #### Negatives
 
-* Rises late, probably cannot get worthwhile images until 1am local time
+* located pretty near the galaxy center, maybe hard to isolate or bogus
 
 ### Discovery and Finder Charts
 
@@ -31,4 +30,4 @@ Back to [Index](../index.html)
 
 ### Observations (UTC)
 
-* March 19, ZTF24aagupsf, observed to be pretty dim
+* March 20
