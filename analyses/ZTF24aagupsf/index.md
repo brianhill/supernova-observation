@@ -31,4 +31,4 @@ Back to [Index](../index.html)
 
 ### Observations (UTC)
 
-* March 19, ZTF24aagupsf, observed to be pretty dim
+* March 19, observed, but was so dim, it wasn't even clear that we were seeing it in its host galaxy, so we did not continue

@@ -22,12 +22,13 @@
 
 ## Week of March 18 Work Plan
 
-* Fix internet at Henderson
-* Fix internet at seismic
-* Collimation
+* Work on internet at Henderson (fixed)
+* Work on internet at seismic (strange troubles continue)
+* Collimation (did everything but back-focus)
 * Get the video work with the Celestron done
-* March 19 (UTC) observe SN in PGC 58391
-* March 20 (UTC) continue observation
-* March 22 analyze March 19 and 20 data
+* March 19 (UTC) observe [./analyses/ZTF24aagupsf/index.html](ZTF24aagupsf) in PGC 58391, too dim
+* March 20 (UTC) observe [./analyses/ZTF24aahgqwk/index.html](ZTF24aahgqwk) in NGC 3443, *very* promising
+* March 21 take calibration images for March 20 data
+* March 22 analyze March 20 data
 * Make mini-desk for laptop in dome
-* Istall 24*rdquo; monitor, 2.4GHz mouse and keyboard
+* Istall 24*rdquo; monitor, 2.4GHz mouse and keyboard?
