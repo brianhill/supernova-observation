@@ -16,19 +16,15 @@
 1. LEDA identifiers are often the same as PGC identifiers
 2. For accessing photos of the target region, [select DSS2 Red](https://skyview.gsfc.nasa.gov/current/cgi/query.pl)
 
-## March Targets
-
-1. [./analyses/ZTF24aagssbr/index.md](./analyses/ZTF24aagupsf/index.html) in a z=0.03 galaxy in Hercules, PGC 58391
-
 ## Week of March 18 Work Plan
 
 * Work on internet at Henderson (fixed)
-* Work on internet at seismic (strange troubles continue)
+* Work on internet at seismic (fixed)
 * Collimation (did everything but back-focus)
 * Get the video work with the Celestron done
-* March 19 (UTC) observe [./analyses/ZTF24aagupsf/index.html](ZTF24aagupsf) in PGC 58391, too dim
-* March 20 (UTC) observe [./analyses/ZTF24aahgqwk/index.html](ZTF24aahgqwk) in NGC 3443, *very* promising
-* March 21 take calibration images for March 20 data
+* March 19 (UTC) observe [./analyses/ZTF24aagupsf/index.html](./analyses/ZTF24aagupsf/index.html) in PGC 58391, too dim
+* March 20 (UTC) observe [./analyses/ZTF24aahgqwk/index.html](./analyses/ZTF24aahgqwk/index.html) in NGC 3443, very promising
+* March 21 continue NGC 3443 if weather cooperates and take calibration images for March 20 data
 * March 22 analyze March 20 data
 * Make mini-desk for laptop in dome
-* Istall 24*rdquo; monitor, 2.4GHz mouse and keyboard?
+* Install 24&rdquo; monitor, 2.4GHz mouse, and keyboard
