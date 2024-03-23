@@ -22,9 +22,9 @@
 * Work on internet at seismic (fixed)
 * Collimation (did everything but back-focus)
 * Get the video work with the Celestron done
-* March 19 (UTC) observe [./analyses/ZTF24aagupsf/index.html](./analyses/ZTF24aagupsf/index.html) in PGC 58391, too dim
-* March 20 (UTC) observe [./analyses/ZTF24aahgqwk/index.html](./analyses/ZTF24aahgqwk/index.html) in NGC 3443, very promising
-* March 21 continue NGC 3443 if weather cooperates and take calibration images for March 20 data
-* March 22 analyze March 20 data
+* March 19 (UTC) observe [ZTF24aagupsf](./analyses/ZTF24aagupsf/index.html) in PGC 58391, too dim
+* March 20 (UTC) observe [ZTF24aahgqwk](./analyses/ZTF24aahgqwk/index.html) in NGC 3443, very promising
+* March 21 (UTC) continue NGC 3443 despite weather barely cooperating
+* March 23 (UTC) continue NGC 3443 despite bright moon
 * Make mini-desk for laptop in dome
 * Install 24&rdquo; monitor, 2.4GHz mouse, and keyboard
