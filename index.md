@@ -24,7 +24,12 @@
 * Get the video work with the Celestron done
 * March 19 (UTC) observe [ZTF24aagupsf](./analyses/ZTF24aagupsf/index.html) in PGC 58391, too dim
 * March 20 (UTC) observe [ZTF24aahgqwk](./analyses/ZTF24aahgqwk/index.html) in NGC 3443, very promising
-* March 21 (UTC) continue NGC 3443 despite weather barely cooperating
-* March 23 (UTC) continue NGC 3443 despite bright moon
-* Make mini-desk for laptop in dome
-* Install 24&rdquo; monitor, 2.4GHz mouse, and keyboard
+* March 21 (UTC) continue SN in NGC 3443 despite weather barely cooperating
+* March 23 (UTC) continue SN in NGC 3443 despite bright moon
+
+## Week of March 25 Work Plan
+
+* March 25, pre-dawn, continue SN in NGC 3443
+* March 25 Make mini-desk for laptop in dome, and install monitor, 2.4GHz mouse, and keyboard
+* March 26 Re-do cabling now with laptop on mini-desk in dome
+* March 27 (UTC) continue SN in NGC 3443
