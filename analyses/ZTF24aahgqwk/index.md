@@ -34,5 +34,7 @@ Back to [Index](../index.html)
 * March 21, was able to observe despite thin clouds forming -- the images were done 30 red, 30 green, 30 red, 30 green rather than the usual 60 red 60 green, because of concern that the clouds would prevent any of the later images from being taken, but in fact, most of the images are ok, except possibly near the end some are useless
 * March 23, 96% full moon is only 6&deg; from the target, but happily, the supernova is still bright enough to observe, we had to jog the telescope 5 arc-minutes to the left (5' increase in RA)
 * March 25 (pre-dawn), not a great observing session, *filter wheel in unknown position,* air turbulent, target down around 20&deg; and dropping, did 30, 30, 15, and 15, but it isn't known what positions the filter was in
-* March 27
+* March 27 (last night before heading to NM with Jack who was Mac's) had to operate laptop from dome because keyboard didn't work
+* April 2 (with Hexi) windy and cold but clear after storm, again had to operate laptop from dome, scope temp at beginning about 8.0&deg; and focus was best about 5341, but it was tough to get a good read due to poor seeing
+
 
