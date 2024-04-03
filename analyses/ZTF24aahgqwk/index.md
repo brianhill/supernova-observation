@@ -36,5 +36,6 @@ Back to [Index](../index.html)
 * March 25 (pre-dawn), not a great observing session, *filter wheel in unknown position,* air turbulent, target down around 20&deg; and dropping, did 30, 30, 15, and 15, but it isn't known what positions the filter was in
 * March 27 (last night before heading to NM with Jack who was Mac's) had to operate laptop from dome because keyboard didn't work
 * April 2 (with Hexi) windy and cold but clear after storm, again had to operate laptop from dome, scope temp at beginning about 8.0&deg; and focus was best about 5341, but it was tough to get a good read due to poor seeing
+* April 3 (with Ethan) best night this spring, keyboard now working, scope temp at beginning about 12.5&deg; and focus was best about 5067
 
 
