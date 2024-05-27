@@ -28,7 +28,7 @@
 
 ## ZTF24aahgqwk Observation Log Moved
 
-* [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk_observation_log.html)
+* [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_observation_log.html)
 
 ## Other Observatory Logs for this period
 
@@ -38,13 +38,14 @@
 * March 26 Re-do cabling now with laptop on mini-desk in dome
 * March 26 Re-do sky model, because the last two observing runs, the target has been observed to be 5 arcminutes displaced
 
-### Week of April 8
+### Week of April 7
 
 * April 8 Sky model again
 
-### Week of May 27
+### Week of May 26
 
-* Meet to plan analysis of ZTF24aahgqwk data
- * [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk_observation_log.html)
- * [ZTF24aahgqwk Analysis Jupyter Notebook](./analyses/ZTF24aahgqwk_analysis.ipynb)
- * [PDF of Analysis Notebook](./analyses/ZTF24aahgqwk_analysis.pdf)
+* May 27 Meet to discuss analysis of ZTF24aahgqwk data
+ * [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_observation_log.html)
+ * [ZTF24aahgqwk Analysis Notebook](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_analysis.ipynb)
+  *  Modeled on [ZTF23aaaatjn Analysis Notebook](./analyses/ZTF24aahgqwk/ZTF23aaaatjn_analysis.ipynb)
+ * [PDF of ZTF24aahgqwk Analysis Notebook](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_analysis.pdf)
