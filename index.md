@@ -48,4 +48,6 @@
  * [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_observation_log.html)
  * [ZTF24aahgqwk Analysis Notebook](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_analysis.ipynb)
   *  Modeled on [ZTF23aaaatjn Analysis Notebook](./analyses/ZTF24aahgqwk/ZTF23aaaatjn_analysis.ipynb)
- * [PDF of ZTF24aahgqwk Analysis Notebook](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_analysis.pdf)
+ * [PDF of ZTF24aahgqwk Analysis Notebook](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_analysis.pdf) 
+* Make plan for uploading passovers to YouTube
+ * [First passover uploaded](https://youtu.be/EfwUompp8xY)
