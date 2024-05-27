@@ -26,9 +26,9 @@
 * Get the video work with the Celestron done
 * March 19 (UTC) observe [ZTF24aagupsf](./analyses/ZTF24aagupsf/index.html) in PGC 58391, too dim
 
-## ZTF24aahgwk Observation Log Moved
+## ZTF24aahgqwk Observation Log Moved
 
-* [ZTF24aahgwk Observation Log](./ZTF24aahgwk_observation_log.html)
+* [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk_observation_log.html)
 
 ## Other Observatory Logs for this period
 

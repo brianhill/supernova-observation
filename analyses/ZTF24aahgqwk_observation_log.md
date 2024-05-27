@@ -1,4 +1,4 @@
-## ZTF24aahgwk Observation Log (dates are UTC)
+## ZTF24aahgqwk Observation Log (dates are UTC)
 
 ### Week of 2024-03-19
 
@@ -36,6 +36,8 @@
 ### Week of 2024-04-16
 
 * 2024-04-17 continue observing [SN ZTF24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/index.html)
+  * DONE: sorted into subdirectories
+  * TODO: images individually inspected
 * 2024-04-21 continue observing [SN ZTF24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/index.html)
 * 2024-04-22 continue observing [SN ZTF24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/index.html)
 
