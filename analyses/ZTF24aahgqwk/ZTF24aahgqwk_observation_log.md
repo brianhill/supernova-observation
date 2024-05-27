@@ -31,21 +31,28 @@
 ### Week of 2024-04-09
 
 * 2024-04-10 continue observing [ZTF 24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_target_info/index.html)
-* 2024-04-11 continue observing [ZTF 24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_target_info/index.html)
-* 2024-04-12 continue observing [ZTF 24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_target_info/index.html) and calibration images
-  * DONE: calibration images sorted into subdirectories
-  * TODO: lights sorted into subdirectories
+  * DONE: lights sorted into subdirectories
   * TODO: images individually inspected
-
+* 2024-04-11 continue observing [ZTF 24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_target_info/index.html)
+  * DONE: lights sorted into subdirectories
+  * TODO: images individually inspected
+* 2024-04-12 take calibration images
+  * DONE: calibration images sorted into subdirectories
 * 2024-04-13 continue observing [ZTF 24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_target_info/index.html)
+  * DONE: lights sorted into subdirectories
+  * TODO: images individually inspected
 
 ### Week of 2024-04-16
 
 * 2024-04-17 continue observing [ZTF 24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_target_info/index.html)
   * DONE: lights sorted into subdirectories
   * TODO: lights individually inspected
-* 2024-04-21 continue observing [ZTF 24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_target_info/index.html)
+* 2024-04-21 continue observing [ZTF 24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_target_info/index.html) but now with 120 in green because green is getting faint
+  * DONE: lights sorted into subdirectories
+  * TODO: lights individually inspected
 * 2024-04-22 continue observing [ZTF 24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_target_info/index.html)
+  * DONE: lights sorted into subdirectories
+  * TODO: lights individually inspected
 
 ### Week of 2024-04-23
 
