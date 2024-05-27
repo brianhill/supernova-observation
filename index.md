@@ -41,3 +41,10 @@
 ### Week of April 8
 
 * April 8 Sky model again
+
+### Week of May 27
+
+* Meet to plan analysis of ZTF24aahgqwk data
+ * [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk_observation_log.html)
+ * [ZTF24aahgqwk Analysis Jupyter Notebook](./analyses/ZTF24aahgqwk_analysis.ipynb)
+ * [PDF of Analysis Notebook](./analyses/ZTF24aahgqwk_analysis.pdf)
