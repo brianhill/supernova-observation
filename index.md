@@ -37,6 +37,8 @@
 * March 25 Make mini-desk for laptop in dome, and install monitor, 2.4GHz mouse, and keyboard
 * March 26 Re-do cabling now with laptop on mini-desk in dome
 * March 26 Re-do sky model, because the last two observing runs, the target has been observed to be 5 arcminutes displaced
+* March 26 Need to operate laptop from dome because keyboard and mouse re-location doesn't work
+* March 27 Head to New Mexico for installation of telescope at Dark Sky NM
 
 ### Week of April 7
 
@@ -51,3 +53,4 @@
  * [PDF of ZTF24aahgqwk Analysis Notebook](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_analysis.pdf) 
 * Make plan for uploading passovers to YouTube
  * [First passover uploaded](https://youtu.be/EfwUompp8xY)
+* May 28 Get all images organized into appropriate subfolders
