@@ -72,7 +72,7 @@ _Due to merging of two copies of the logs, there is some redundancy in the text 
 * 2024-04-23 continue observing [ZTF 24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_target_info/index.html)
   * DONE: lights sorted into subdirectories
   * TODO: lights individually inspected
-* 2024-04-29 continue observing [ZTF 24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_target_info/index.html)
+* 2024-04-29 continue observing [ZTF 24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_target_info/index.html), but bright moon and passing clouds at the end of the g series &mdash; particularly important to inspect for bad images &mdash; discard anything with median over 700? &mdash; as an example look at 00009373.NGC 3443.fit
   * DONE: lights sorted into subdirectories
   * TODO: lights individually inspected
 
