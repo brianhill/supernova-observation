@@ -28,7 +28,7 @@
 
 ## ZTF24aahgqwk Observation Log Moved
 
-* [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_observation_log.html)
+* [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk/ZTF24aahgqwk-observation_log.html)
 
 ## Other Observatory Logs for this period
 
@@ -44,13 +44,12 @@
 
 * April 8 Sky model again
 
-### Week of May 26
+### Term 6 &mdash; Continuation of Analysis
 
-* May 27 Meet to discuss analysis of ZTF24aahgqwk data
- * [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_observation_log.html)
- * [ZTF24aahgqwk Analysis Notebook](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_analysis.ipynb)
-  *  Modeled on [ZTF23aaaatjn Analysis Notebook](./analyses/ZTF24aahgqwk/ZTF23aaaatjn_analysis.ipynb)
- * [PDF of ZTF24aahgqwk Analysis Notebook](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_analysis.pdf) 
+ * [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk/ZTF24aahgqwk-observation_log.html)
+ * [ZTF24aahgqwk Calibration, Alignment, and Stacking Notebook](./analyses/ZTF24aahgqwk/ZTF24aahgqwk-calibration.ipynb)
+  * For convenience, [PDF of ZTF24aahgqwk Calibration, Alignment, and Stacking Notebook](./analyses/ZTF24aahgqwk/ZTF24aahgqwk-calibration.pdf)
+ * [ZTF24aahgqwk Photometry and Light Curve Notebook](./analyses/ZTF24aahgqwk/ZTF24aahgqwk-light_curve.ipynb)
+  * For convenience [PDF of ZTF24aahgqwk Photometry and Light Curve Notebook](./analyses/ZTF24aahgqwk/ZTF24aahgqwk-light_curve.pdf) 
 * Make plan for uploading passovers to YouTube
  * [First passover uploaded](https://youtu.be/EfwUompp8xY)
-* May 28 Get all images organized into appropriate subfolders
