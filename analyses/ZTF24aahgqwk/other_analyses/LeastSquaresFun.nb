@@ -1,0 +1,387 @@
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[         0,          0]
+NotebookDataLength[     13442,        386]
+NotebookOptionsPosition[     12847,        362]
+NotebookOutlinePosition[     13329,        381]
+CellTagsIndexPosition[     13286,        378]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[{
+ "We are going to be doing a lot of work with least-squares fitting to \
+extract a light curve from our images. ",
+ StyleBox["So let\[CloseCurlyQuote]s do the easiest application of \
+least-squares fitting problem,",
+  FontSlant->"Italic"],
+ " ",
+ StyleBox["which is ",
+  FontSlant->"Italic"],
+ StyleBox["linear regression. ",
+  FontWeight->"Bold",
+  FontSlant->"Italic"],
+ "Because a linear function is such an easy fitting function, you don\
+\[CloseCurlyQuote]t need the help of a computer. For the light curve \
+analysis, we need the computer, but you can solve the linear regression \
+problem exactly in one page. Here we go....",
+ "\n\nAssume you have a bunch of data points ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"(", 
+    RowBox[{
+     SubscriptBox["x", "i"], ",", 
+     SubscriptBox["y", "i"]}], ")"}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "76416224-3e9b-456a-b459-fc81674a4c46"],
+ ". We want to fit the data to the function ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"y", "=", 
+    RowBox[{
+     RowBox[{"m", "\[VeryThinSpace]", "x"}], "+", "b"}]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "2a2cf90e-2ef2-4764-b0f5-919959769988"],
+ ". So for every ",
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["x", "i"], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "87901fe0-eec5-4bd6-b9c1-cb281599b1b4"],
+ ", we have a prediction and the prediction is ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"m", "\[VeryThinSpace]", 
+     SubscriptBox["x", "i"]}], "+", "b"}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "1fbd8449-4667-49b2-b04d-83c286f7dedb"],
+ ". The error in the prediction (actual minus predicted) is ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["e", "i"], "=", 
+    RowBox[{
+     SubscriptBox["y", "i"], "-", 
+     RowBox[{"(", 
+      RowBox[{
+       RowBox[{"m", "\[VeryThinSpace]", 
+        SubscriptBox["x", "i"]}], "+", "b"}], ")"}]}]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "0db389b2-e3df-429b-9eb9-8ad4ef9606af"],
+ ". The sum of the squares of the errors is ",
+ Cell[BoxData[
+  FormBox[
+   SuperscriptBox[
+    RowBox[{
+     SubscriptBox[
+      StyleBox["\[CapitalSigma]",
+       FontSize->18], "i"], "[", 
+     RowBox[{
+      SubscriptBox["y", "i"], "-", 
+      RowBox[{"(", 
+       RowBox[{
+        RowBox[{"m", "\[VeryThinSpace]", 
+         SubscriptBox["x", "i"]}], "+", "b"}], ")"}]}], "]"}], "2"], 
+   TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "ce9cfbd5-20ae-4cd1-a05a-648177e4ff64"],
+ ". From now on, whenever I have a ",
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox[
+    StyleBox["\[CapitalSigma]",
+     FontSize->18], "i"], TraditionalForm]],ExpressionUUID->
+  "c408c65d-ee72-46a2-83a4-07a7675d916f"],
+ ", I\[CloseCurlyQuote]ll just write ",
+ Cell[BoxData[
+  FormBox[
+   StyleBox["\[CapitalSigma]",
+    FontSize->18], TraditionalForm]],ExpressionUUID->
+  "07bc37e4-b612-45f0-9873-ad34fc169eea"],
+ ". You know that it is over all ",
+ Cell[BoxData[
+  FormBox["n", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "cb1878a3-8895-42f5-83c4-a0d11f403db5"],
+ " of the data points, ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"i", "=", "1"}], ",", "...", "  ", ",", " ", "n"}], 
+   TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "6a8f8a01-8570-48eb-8208-b6ad70ef419a"],
+ ".\n\nIn least squares minimization, we want to choose ",
+ Cell[BoxData[
+  FormBox["m", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "3e624f55-c794-4134-9797-0bc0e6644841"],
+ " and ",
+ Cell[BoxData[
+  FormBox["b", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "fb55016b-6cdb-4b62-9211-4a2ea792efd8"],
+ " so that  ",
+ Cell[BoxData[
+  FormBox[
+   SuperscriptBox[
+    RowBox[{
+     StyleBox["\[CapitalSigma]",
+      FontSize->18], "[", 
+     RowBox[{
+      SubscriptBox["y", "i"], "-", 
+      RowBox[{"(", 
+       RowBox[{
+        RowBox[{"m", "\[VeryThinSpace]", 
+         SubscriptBox["x", "i"]}], "+", "b"}], ")"}]}], "]"}], "2"], 
+   TraditionalForm]],ExpressionUUID->"ca63a4f4-6045-4b85-893d-4224a84899c5"],
+ " is at a minimum. This is a quadratic function in ",
+ Cell[BoxData[
+  FormBox["m", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "9b79e22b-a387-4281-9439-e06610afa1a1"],
+ " and ",
+ Cell[BoxData[
+  FormBox["b", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "a5d7b9a9-7f7e-4802-a514-78b9b2fd1e2b"],
+ " and it is easy to find the minima of quadratic functions. You take the \
+derivative and set it equal to 0.\n\nQ1. Take ",
+ Cell[BoxData[
+  FormBox[
+   FractionBox["d", 
+    RowBox[{"d", "\[VeryThinSpace]", "m"}]], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "1969b0c7-d333-4671-88e3-89016a798ebb"],
+ " of  ",
+ Cell[BoxData[
+  FormBox[
+   SuperscriptBox[
+    RowBox[{
+     StyleBox["\[CapitalSigma]",
+      FontSize->18], "[", 
+     RowBox[{
+      SubscriptBox["y", "i"], "-", 
+      RowBox[{"(", 
+       RowBox[{
+        RowBox[{"m", "\[VeryThinSpace]", 
+         SubscriptBox["x", "i"]}], "+", "b"}], ")"}]}], "]"}], "2"], 
+   TraditionalForm]],ExpressionUUID->"73096469-5f61-4ec5-95e4-8fb7fb3b52d0"],
+ " and set it equal to zero.\n\nQ2. Take ",
+ Cell[BoxData[
+  FormBox[
+   FractionBox["d", 
+    RowBox[{"d", "\[VeryThinSpace]", "b"}]], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "e056cae7-e5de-43e8-a986-ee81ab65f480"],
+ " of  ",
+ Cell[BoxData[
+  FormBox[
+   SuperscriptBox[
+    RowBox[{
+     StyleBox["\[CapitalSigma]",
+      FontSize->18], "[", 
+     RowBox[{
+      SubscriptBox["y", "i"], "-", 
+      RowBox[{"(", 
+       RowBox[{
+        RowBox[{"m", "\[VeryThinSpace]", 
+         SubscriptBox["x", "i"]}], "+", "b"}], ")"}]}], "]"}], "2"], 
+   TraditionalForm]],ExpressionUUID->"2fcd3b78-0852-4e54-9e07-e384a57bf542"],
+ " and set it equal to zero.\n\nThe quadratic functions, which are now linear \
+in ",
+ Cell[BoxData[
+  FormBox["m", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "ecfd42e8-90e1-445d-aaf0-f6ea49754ca4"],
+ " and ",
+ Cell[BoxData[
+  FormBox["b", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "e62c8e47-603a-4732-be1b-bf40ad3eda2d"],
+ " after you took the derivatives,  still have quadratic and linear terms in ",
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["y", "i"], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "241cccfd-c999-4058-a0c9-14d8741ca950"],
+ " and ",
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["x", "i"], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "d6d96659-4e55-40a4-8849-6c211ce12db4"],
+ ". Define the following sums:\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["\[Sigma]", 
+     RowBox[{"y", "\[VeryThinSpace]", "y"}]], "\[Congruent]", 
+    RowBox[{
+     StyleBox["\[CapitalSigma]",
+      FontSize->18], 
+     StyleBox["\[VeryThinSpace]",
+      FontSize->18], 
+     SubsuperscriptBox["y", "i", "2"]}]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "7567be80-5944-475c-9915-8857619a1dfb"],
+ "\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["\[Sigma]", 
+     RowBox[{"x", "\[VeryThinSpace]", "y"}]], "\[Congruent]", 
+    RowBox[{
+     StyleBox["\[CapitalSigma]",
+      FontSize->18], 
+     StyleBox["\[VeryThinSpace]",
+      FontSize->18], 
+     SubscriptBox["x", "i"], 
+     SubscriptBox["y", "i"]}]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "8f89326f-91e1-45b8-92ce-d69174caf67c"],
+ "\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["\[Sigma]", 
+     RowBox[{"x", "\[VeryThinSpace]", "x"}]], "\[Congruent]", 
+    RowBox[{
+     StyleBox["\[CapitalSigma]",
+      FontSize->18], 
+     StyleBox["\[VeryThinSpace]",
+      FontSize->18], 
+     SubsuperscriptBox["x", "i", "2"]}]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "41572a82-be80-4ab7-84d0-4a8adb85654f"],
+ "\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["\[Sigma]", "y"], "\[Congruent]", 
+    RowBox[{
+     StyleBox["\[CapitalSigma]",
+      FontSize->18], 
+     StyleBox["\[VeryThinSpace]",
+      FontSize->18], 
+     SubscriptBox["y", "i"]}]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "d3ca2259-6c88-41b0-a56e-439b2fab9d0a"],
+ "\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    SubscriptBox["\[Sigma]", "x"], "\[Congruent]", 
+    RowBox[{
+     StyleBox["\[CapitalSigma]",
+      FontSize->18], 
+     StyleBox["\[VeryThinSpace]",
+      FontSize->18], 
+     SubscriptBox["x", "i"]}]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "2e220576-571b-430f-9fa3-ac15d181ffa2"],
+ "\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     SubscriptBox["\[Sigma]", "1"], "\[Congruent]", 
+     RowBox[{
+      StyleBox["\[CapitalSigma]",
+       FontSize->18], 
+      StyleBox["\[VeryThinSpace]",
+       FontSize->18], "1"}]}], "=", "n"}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "ffa1264c-94e3-4dff-9241-b7c193ccd22f"],
+ " (so there is no need to have defined ",
+ Cell[BoxData[
+  FormBox[
+   SubscriptBox["\[Sigma]", "1"], TraditionalForm]],ExpressionUUID->
+  "6a6554a0-314d-45da-8063-a4d3c9e8a5ff"],
+ ", because it is just ",
+ Cell[BoxData[
+  FormBox["n", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "37feafc8-c39c-4ddc-b825-2bb910f283b3"],
+ ")\n\nQ3. Using these definitions, rewrite your answer to Q1.\n\nQ4. Again \
+using these definitions, rewrite your answer to Q2.\n\nQ5. It is now obvious \
+that you have two equations in two unknowns. Solve for ",
+ Cell[BoxData[
+  FormBox["m", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "40e36490-9dc7-4dd5-8793-6e7a91a8f3e2"],
+ ".\n\nQ6. Solve for ",
+ Cell[BoxData[
+  FormBox["b", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "66cb1b6f-5d03-42ba-89d5-851cc894b9fe"],
+ ".\n\nQ7. Compare your answer for ",
+ Cell[BoxData[
+  FormBox["m", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "93bbd098-cd2e-45f2-8646-ca2a47248039"],
+ " and ",
+ Cell[BoxData[
+  FormBox["b", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "2531bcdd-a929-414f-a22a-ad2cc3eb079c"],
+ " with a standard textbook answer for the linear regression formula. If you \
+can\[CloseCurlyQuote]t reconcile your answer, go back and find the mistakes.\n\
+\nDISCUSSION:\n\nYou now know where linear regression comes from! Can you see \
+why outlier data points so strongly affect linear regressions? Because the \
+effect of outliers is so strongly weighted by least squares, people often go \
+through their data and manually eliminate outliers before doing the linear \
+regression.\n\nThere is some statistical theory that explains why throwing \
+out outliers might be a good thing to do, but just treat it as a standard \
+practice, because the theory justifying least squares is an entirely separate \
+derivation. The theory is related to the \[OpenCurlyDoubleQuote]central limit \
+theorem.\[CloseCurlyDoubleQuote]"
+}], "Text",
+ CellChangeTimes->{{3.9270728263237123`*^9, 3.927073210482059*^9}, {
+   3.927073402805832*^9, 3.927073527456271*^9}, {3.9270739437525253`*^9, 
+   3.927073952704849*^9}, {3.92707406919232*^9, 3.9270744290165243`*^9}, {
+   3.927074938353149*^9, 3.927074943705795*^9}, {3.927075072346345*^9, 
+   3.927075103958325*^9}, {3.927075327398386*^9, 3.927075327577549*^9}, {
+   3.927142670308256*^9, 3.927142714927986*^9}, {3.927142791160013*^9, 
+   3.927142917950989*^9}, {3.9271429557517643`*^9, 3.927143090857419*^9}, {
+   3.927143151228709*^9, 3.927143540725056*^9}, {3.927143590216959*^9, 
+   3.927143624216819*^9}, {3.9271436790600157`*^9, 3.927143766941042*^9}, {
+   3.927143901377737*^9, 3.927144005982723*^9}, {3.927144044145973*^9, 
+   3.927144144746863*^9}, {3.927144178522442*^9, 3.927144179444852*^9}, {
+   3.927144217628173*^9, 3.927144218573689*^9}, 3.92714433271877*^9, {
+   3.9271495090827436`*^9, 3.927150070771618*^9}, {3.927150114454193*^9, 
+   3.927150151921287*^9}, {3.927150187477043*^9, 3.927150512339746*^9}, {
+   3.927150696345479*^9, 3.9271506987067003`*^9}, {3.927150740446004*^9, 
+   3.927150890275429*^9}, {3.9271509343975277`*^9, 3.927151164244217*^9}, {
+   3.927151198603241*^9, 3.9271513505467854`*^9}, {3.927151942117627*^9, 
+   3.9271519580274887`*^9}},ExpressionUUID->"a430caf0-22ad-42af-98d3-\
+a62d5d837493"]
+},
+WindowSize->{941, 1036},
+WindowMargins->{{509, Automatic}, {Automatic, 0}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
+Magnification:>1.5 Inherited,
+FrontEndVersion->"14.0 for Mac OS X ARM (64-bit) (December 12, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"b6475e08-46ca-41f6-94e5-6782ef861ff7"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[400, 13, 12443, 347, 2069, "Text",ExpressionUUID->"a430caf0-22ad-42af-98d3-a62d5d837493"]
+}
+]
+*)
+
