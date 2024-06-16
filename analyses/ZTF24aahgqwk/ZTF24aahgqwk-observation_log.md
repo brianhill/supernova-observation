@@ -1,6 +1,6 @@
 ## ZTF24aahgqwk Observation Log (dates are UTC)
 
-* See also [Target Information for ZTF24aahgqwk](./ZTF24aahgqwk-targt_info/index.html)
+* See also [Target Information for ZTF24aahgqwk](./ZTF24aahgqwk-target_info/index.html)
 
 ### Week of 2024-03-19
 
