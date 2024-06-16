@@ -5,6 +5,8 @@
 ## Schedule and Work Plan
 
 * [Record of Work - Term 4](./record_of_work-term_4.html)
+* Record of Work - Term 5 &mdash; See our [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk/ZTF24aahgqwk-observation_log.html)
+* Record of Work - Term 6 &mdash; See our [ZTF24aahgqwk Analysis](./analyses/ZTF24aahgqwk/index.html)
 
 ## Overview
 

@@ -17,9 +17,10 @@ Student Researchers: Hexi Jin (DS 23) and Ethan Liao (DS 22)
 
  * [First passover uploaded](https://youtu.be/EfwUompp8xY)
  
-## ZTF24aahgqwk
+## ZTF24aahgqwk Analysis
 
 After multiple false starts in February and early March, a promising supernova was identified by the ZTF.
+
 Our [ZTF24aahgqwk Analysis](./analyses/ZTF24aahgqwk/index.html) summarizes 18 nights of data-taking for this supernova.
  
 <img src="./resources/ZTF24aahgqwk-2024-03-20-r.png" alt="ZTF24aahgqwk on 2024-03-20 in Sloan r" width="100%">
