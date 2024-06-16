@@ -1,14 +1,4 @@
-# Supernova Observation
-
-*A program of directed study and research aimed at pushing the limits of the Deep Springs Observatory and observing supernovae.*
-
-Terms 4-5 of Spring Semester 2024, Deep Springs College
-
-Mentor/Supervisor: [Prof. Brian Hill](../index.html)
-
-Student Researchers: Ethan Liao (DS 22) and Hexi Jin (DS 23)
-
-## Syllabus
+# Supernova Observation &mdash; Syllabus
 
 * [Syllabus](./SupernovaObservationSyllabus.pdf) (a PDF that mirrors what is on this web page) &mdash; [Directed Study Application](./Liao-Jin-ApplicationForDirectedStudy-REVISED.pdf) (revised in response to CurCom comments)
 

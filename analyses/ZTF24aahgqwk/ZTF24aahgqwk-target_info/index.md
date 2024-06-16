@@ -1,6 +1,6 @@
 ## ZTF24aahgqwk
 
-Back to [Index](../index.html)
+Back to [ZTF24aahgqwk Analysis](../index.html)
 
 ### Features
 

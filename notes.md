@@ -1,6 +1,6 @@
 ## Supernova Observation &mdash;  Notes
 
-* [Back to Supernova Observation - Hoome](./index.html)
+* [Back to Supernova Observation Home](./index.html)
 
 ### Target Selection Links
 
