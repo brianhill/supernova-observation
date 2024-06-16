@@ -1,12 +1,8 @@
 # Supernova Observation &mdash; Syllabus
 
-* [Syllabus](./SupernovaObservationSyllabus.pdf) (a PDF that mirrors what is on this web page) &mdash; [Directed Study Application](./Liao-Jin-ApplicationForDirectedStudy-REVISED.pdf) (revised in response to CurCom comments)
+* Return to [Supernova Observation Home](./index.html)
 
-## Schedule and Work Plan
-
-* [Record of Work - Term 4](./record_of_work-term_4.html)
-* Record of Work - Term 5 &mdash; See our [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk/ZTF24aahgqwk-observation_log.html)
-* Record of Work - Term 6 &mdash; See our [ZTF24aahgqwk Analysis](./analyses/ZTF24aahgqwk/index.html)
+Our [Syllabus](./SupernovaObservationSyllabus.pdf) is a PDF that mirrors what is on this web page. See also our [Directed Study Application](./Liao-Jin-ApplicationForDirectedStudy-REVISED.pdf) (revised in response to CurCom comments).
 
 ## Overview
 
