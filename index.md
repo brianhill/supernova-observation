@@ -53,3 +53,9 @@
   * For convenience [PDF of ZTF24aahgqwk Photometry and Light Curve Notebook](./analyses/ZTF24aahgqwk/ZTF24aahgqwk-light_curve.pdf) 
 * Make plan for uploading passovers to YouTube
  * [First passover uploaded](https://youtu.be/EfwUompp8xY)
+ 
+## ZTF24aahgqwk
+ 
+ZTF24aahgqwk on 2024-03-20 in Sloan r. A long time ago in a galaxy far, far away.
+ 
+<img src="./resources/ZTF24aahgqwk-2024-03-20-r.png" alt="ZTF24aahgqwk on 2024-03-20 in Sloan r" width="100%">
