@@ -25,9 +25,9 @@ Student Researchers: Hexi Jin (DS 23) and Ethan Liao (DS 22)
  
 ## ZTF24aahgqwk Analysis
 
-After multiple false starts in February and early March, a promising supernova was identified by the ZTF.
+After the intermittenly bad weather of February and early March eased off, a promising supernova in NGC 3443 was identified by the ZTF.
 
-Our [ZTF24aahgqwk Analysis](./analyses/ZTF24aahgqwk/index.html) summarizes 18 nights of data-taking for this supernova.
+Our [ZTF24aahgqwk Analysis](./analyses/ZTF24aahgqwk/index.html) summarizes 18 nights of data-taking for this supernova from late March to early May.
  
 <img src="./resources/ZTF24aahgqwk-2024-03-20-r.png" alt="ZTF24aahgqwk on 2024-03-20 in Sloan r" width="100%">
 ZTF24aahgqwk on 2024-03-20 with Sloan r' filter
