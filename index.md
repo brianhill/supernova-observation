@@ -21,21 +21,20 @@ Student Researchers: Hexi Jin (DS 23) and Ethan Liao (DS 22)
 
 ## Video Passovers
 
-We have converted the written passovers inherited from the [prior spring's team](../transient-astronomy/index.html) into five videos:
+We have converted the [written passover](./passovers/ObservatoryPassover-2023-03-18.pages.pdf)s created by the [prior spring's team](../transient-astronomy/index.html) into five short videos:
 
-* [Field Setup of the College Telescope] (https://youtu.be/EfwUompp8xY)
-* [Polar Alignment of the Losmandy Mount](https://youtu.be/vgO31NmwcmA)
-* [Setting up Mount and OTA in the Dome](https://youtu.be/sCsEXKleVPs)
-* [Opening and Closing the Dome and Control Room](https://youtu.be/UROLhHAeSec)
-* [Operating the Losmandy Hand Controller - FORTHCOMING](https://www.google.com)
+* [Setting up in the Field](https://youtu.be/EfwUompp8xY)
+* [Polar Alignment in the Field](https://youtu.be/vgO31NmwcmA)
+* [Setting up Mount and OTA at the Observatory](https://youtu.be/sCsEXKleVPs)
+* [Opening and Closing the Observatory](https://youtu.be/UROLhHAeSec)
+* Operating the Losmandy Hand Controller - TO BE UPLOADED
 
-Usually the mount and OTA (optical tube assembly) are already set up in the dome, and you can skip straight to the fourth and fifth videos to get observing.
- 
-## ZTF24aahgqwk Analysis
+Usually the mount and OTA (optical tube assembly) are already set up on the permanent pier in the dome, and people wanting to use the already-set-up equipment can skip straight to the last two videos to jump-start their observing.
 
-After the intermittenly bad weather of February and early March eased off, a promising supernova in NGC 3443 was identified by the ZTF.
+## ZTF24aahgqwk Observation and Analysis
 
-Our [ZTF24aahgqwk Analysis](./analyses/ZTF24aahgqwk/index.html) summarizes 18 nights of data-taking for this supernova from late March to early May.
+In late January and early February, we worked on setup of the telescope both in the field and at the observatory, and also on setting up Python environments and learning scientific Python. The intermittenly bad weather of February and early March kept up when we wanted to begin observing, but luckily, almost exactly as the bad weather finally tailed off, a promising supernova in NGC 3443 was identified by the ZTF (Zwicky Transient Facility). Our [18 nights of data-taking](./analyses/ZTF24aahgqwk/ZTF24aahgqwk-observation_log.html) for this supernova from late March to early May are
+summarized by our [ZTF24aahgqwk Analysis](./analyses/ZTF24aahgqwk/index.html).
  
 <img src="./resources/ZTF24aahgqwk-2024-03-20-r.png" alt="ZTF24aahgqwk on 2024-03-20 in Sloan r" width="100%">
 ZTF24aahgqwk on 2024-03-20 with Sloan r' filter
