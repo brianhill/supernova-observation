@@ -20,7 +20,7 @@ Student Researchers: Hexi Jin (DS 23) and Ethan Liao (DS 22)
 
 ## Video Passovers
 
-We have converted the [written passover](./passovers/ObservatoryPassover-2023-03-18.pages.pdf)s created by the [prior spring's team](../transient-astronomy/index.html) into a series of short videos that are publicly accessible at the [Deep Springs Observatory](https://www.youtube.com/@DSObservatory) channel on YouTube.
+We have converted the [written passover](./passovers/ObservatoryPassover-2023-03-18.pages.pdf) created by the [prior spring's team](../transient-astronomy/index.html) into a series of short videos that are publicly accessible at the [Deep Springs Observatory](https://www.youtube.com/@DSObservatory) channel on YouTube.
 
 Usually the mount and OTA (optical tube assembly) are already set up on the permanent pier in the dome, and people wanting to use the already-set-up equipment can skip straight to [Opening and Closing the Observatory](https://youtu.be/UROLhHAeSec) to jump-start their observing.
 
