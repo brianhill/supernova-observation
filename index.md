@@ -8,10 +8,9 @@ Mentor/Supervisor: [Prof. Brian Hill](../index.html)
 
 Student Researchers: Hexi Jin (DS 23) and Ethan Liao (DS 22)
 
-## Syllabus and Notes
+## Syllabus
 
 * [Syllabus](./syllabus.html)
-* [Notes](./notes.html)
 
 ## Record of Work
 
@@ -21,15 +20,9 @@ Student Researchers: Hexi Jin (DS 23) and Ethan Liao (DS 22)
 
 ## Video Passovers
 
-We have converted the [written passover](./passovers/ObservatoryPassover-2023-03-18.pages.pdf)s created by the [prior spring's team](../transient-astronomy/index.html) into five short videos:
+We have converted the [written passover](./passovers/ObservatoryPassover-2023-03-18.pages.pdf)s created by the [prior spring's team](../transient-astronomy/index.html) into a series of short videos that are publicly accessible at the [Deep Springs Observatory](https://www.youtube.com/@DSObservatory) channel on YouTube.
 
-* [Setting up in the Field](https://youtu.be/EfwUompp8xY)
-* [Polar Alignment in the Field](https://youtu.be/vgO31NmwcmA)
-* [Setting up Mount and OTA at the Observatory](https://youtu.be/sCsEXKleVPs)
-* [Opening and Closing the Observatory](https://youtu.be/UROLhHAeSec)
-* Operating the Losmandy Hand Controller - TO BE UPLOADED
-
-Usually the mount and OTA (optical tube assembly) are already set up on the permanent pier in the dome, and people wanting to use the already-set-up equipment can skip straight to the last two videos to jump-start their observing.
+Usually the mount and OTA (optical tube assembly) are already set up on the permanent pier in the dome, and people wanting to use the already-set-up equipment can skip straight to [Opening and Closing the Observatory](https://youtu.be/UROLhHAeSec) to jump-start their observing.
 
 ## ZTF24aahgqwk Observation and Analysis
 

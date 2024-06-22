@@ -1,13 +1,16 @@
-## Supernova Observation &mdash;  Notes
+## Supernova Observation &mdash;  General Targeting Notes
 
 * [Back to Supernova Observation Home](./index.html)
+
+This file also contained our Term 5 Observation Log, but as the number of observing nights and notes for ZTF24aahgqwk took off,
+the log for those observations was moved to [ZTF24aahgqwk Observation Log](./analyses/ZTF24aahgqwk/ZTF24aahgqwk-observation_log.html).
 
 ### Target Selection Links
 
 1. Supernovae identified by the Zwicky Transient Facility (ZTF) are within our grasp. Supernovae have various brightnesses with the brightest ones having peak luminosity brighter than magnitude 17. A pre-digested list of supernovae is the Rochester Astronomy of Science's [compendium](https://www.rochesterastronomy.org/supernova.html).
 2. However, generally, we don't want to wait for a candidate to appear in a compendium, so we use the [ALeRCE search tool for ZTF candidates](https://alerce.online/?selectedClassifier=stamp_classifier&selectedClass=SN&probability=0.65&ndet=1&ndet=3157&ranking=1&firstmjd=60378&count=false&page=1&perPage=20)
 3. Or sometimes another ALeRCE tool, [Supernovae Hunter search](https://snhunter.alerce.online)
-4. One more place to hunt for candidates is the [IAU Transient Name Server](https://www.wis-tns.org/search) because it gets candidates from sources, such as the ATLAS collaboration
+4. One more place to hunt for candidates is the [IAU Transient Name Server](https://www.wis-tns.org/search) because it gets candidates from multiple sources, such as the ATLAS collaboration
 
 ###  Random Notes
 
@@ -23,6 +26,7 @@
 * Re-do collimation (did everything but back-focus)
 * Get the video work with the Celestron done
 * March 19 (UTC) observe [ZTF24aagupsf](./analyses/ZTF24aagupsf/index.html) in PGC 58391, too dim
+* March 20 (UTC) began observaion of ](./analyses/ZTF24aahgqwk/ZTF24aahgqwk-observation_log.html) in NGC 3443
 
 ### ZTF24aahgqwk Observation Log Moved
 

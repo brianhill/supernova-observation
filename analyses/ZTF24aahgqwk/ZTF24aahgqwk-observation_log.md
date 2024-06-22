@@ -1,6 +1,6 @@
 ## ZTF24aahgqwk Observation Log (dates are UTC)
 
-* See also [Target Information for ZTF24aahgqwk](./ZTF24aahgqwk-target_info/index.html)
+* See also [Target Information for ZTF24aahgqwk](./ZTF24aahgqwk-target_info/index.html) and the [General Targeting Notes](/notes.html) we used as we were settling on ZTF24aahgqwk.
 
 ### Week of 2024-03-19
 
@@ -27,7 +27,7 @@ detection_sigma = 1.4 # lowered this from the default of 3.0 due to align soft i
 ### SUCCESS W/ 3.0 '2024-04-04',
 ### SUCCESS W/ 3.0 '2024-04-06',
 ### SUCCESS W/ 3.0 '2024-04-10',
-###SUCCESS W/ 3.0 '2024-04-11',\\
+###SUCCESS W/ 3.0 '2024-04-11',
 
 Removed 1 more shaky r
 
@@ -43,7 +43,7 @@ Removed 2 soft r images, 2 soft g images, and 1 g image with a satellite streak
 ### SUCCESS W/ 3.0 '2024-04-30',
 ### SUCCESS W/ 3.0 '2024-05-02'
 
-_Due to merging of two copies of the logs, there is some redundancy in the text below._
+_Due to merging of two copies of our observation logs, there is some redundancy in the text below._
 
 * 2024-03-20 try observing [ZTF 24aahgqwk in NGC 3443](./analyses/ZTF24aahgqwk/ZTF24aahgqwk_target_info/index.html), which is very promising
   * DONE: lights sorted into subdirectories
